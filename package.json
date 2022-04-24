@@ -1,11 +1,12 @@
 {
   "name": "@pteromanager/collection",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "src/index.ts",
+  "main": "dist/src/index.js",
   "private": false,
   "scripts": {
-    "start": "tsc --watch"
+    "start": "tsc --watch",
+    "postinstall": "tsc"
   },
   "repository": {
     "type": "git",
