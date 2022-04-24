@@ -1,18 +1,21 @@
 {
   "name": "@pteromanager/collection",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "",
   "main": "dist/index.js",
   "private": false,
   "scripts": {
     "start": "tsc --watch",
-    "postinstall": "tsc"
+    "publish": "tsc && npm publish"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PteroManager/Collection.git"
   },
-  "keywords": ["pteromanager", "collection"],
+  "keywords": [
+    "pteromanager",
+    "collection"
+  ],
   "contributors": [
     "DottoXD <dotto@pteromanager.ga>",
     "jeweetzelf <jeweetzelf@pteromanager.ga>"
@@ -22,7 +25,7 @@
     "url": "https://github.com/PteroManager/Collection/issues"
   },
   "homepage": "https://github.com/PteroManager/Collection#readme",
-  "devDependencies": {
+  "dependencies": {
     "typescript": "^4.6.3"
   }
 }
