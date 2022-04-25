@@ -2,4 +2,4 @@ tsconfig.json
 .gitignore
 .git/*
 .github
-tests
+tests/*

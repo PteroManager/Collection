@@ -11,9 +11,6 @@
 <a href="https://npmjs.com/package/@pteromanager/collection" target="_blank">
 <img src="https://img.shields.io/npm/dw/@pteromanager/collection.svg" alt=""/>
 </a>
-<a href="https://npmjs.com/package/@pteromanager/collection" target="_blank">
-<img src="https://img.shields.io/npm/dw/@pteromanager/collection.svg" alt=""/>
-</a>
 <a href="https://github.com/PteroManager/Collection" target="_blank">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/Collection">
 </a>
@@ -62,4 +59,4 @@ console.log(myCollection.lastValue());
 # Support
 </div>
 
-You can read the [documentation](https://pteromanager..ga) for more information or [join our Discord Server](https://pteromanager.ga/discord).
+You can read the [documentation](https://pteromanager.ga) for more information or [join our Discord Server](https://pteromanager.ga/discord).

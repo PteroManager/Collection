@@ -9,4 +9,4 @@ collection.set('d', 4);
 collection.set('e', 5);
 collection.set('f', 6);
 
-console.log(collection.reverse())
+console.log(collection.valueAt(2))
